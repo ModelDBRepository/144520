@@ -1,7 +1,7 @@
 {
 	celsius = 37
 	diam=0.05  L=2 nseg = 1
-	insert capacitance { cm = 1.2}   // 0.0756µF
+	insert capacitance { cm = 1.2}   // 0.0756ÂµF
 	v_init = -87
 	RPot = v_init
 } 
